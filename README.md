@@ -3,8 +3,8 @@
 in a specific directory and zips all the files there.*
 
 # How do I use this?
-First of all, you need to get Python if you don't have it.
-You can get it from the Microsoft Store or [download it.](https://python.org)
+*First of all, you need to get Python if you don't have it.
+You can get it from the Microsoft Store or [download it.](https://python.org)*
 
 # Using the script
 
