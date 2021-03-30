@@ -17,3 +17,10 @@ automatically add the '.zip' and the end for you.*
 *Finally, it will give some helpful lines, and a zip file
 will appear in the directory!*
 
+# Issues fixed
+*- Cannot zip directories*
+
+*- Does not give a 'File Exists' error*
+
+# Issues found
+*- Runs into overflow error when zipping contents more than 1 GB in size.*
