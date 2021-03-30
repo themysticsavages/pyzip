@@ -24,3 +24,5 @@ will appear in the directory!*
 
 # Issues found
 *- Runs into overflow error when zipping contents more than 1 GB in size.*
+
+*- Creates unreadable .zip file in created archive.*
