@@ -5,6 +5,8 @@ in a specific directory and zips all the files there.
 # How do I use this?
 First of all, you need to get Python if you don't have it.
 You can get it from the Microsoft Store or [download it.](https://python.org/downloads)
+You also need the Python module 'win10toast' if you are running Windows 10 and if you want the notification.
+If you are running the script in Linux or an OS without toast notifications, you can remove the code which has toast notifications in it.
 
 # Using the script
 
@@ -25,7 +27,3 @@ will appear in the directory!
 - Continues to zip archive and does not stop.
 
 - Creates unreadable .zip file in created archive.
-
-
-
-
